@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\mueru\\.conda\\envs\\tf\\python.exe",
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true
+}
